@@ -32,8 +32,9 @@ interview
 - service factory (provider)
 - directive用过没 双向绑定怎么写
 - 基本事件 routeChangeSuccess run
-- //.config()里什么可以什么不可以
+- .config()是什么
 - resolve
+- 双向绑定更新机制
 
 
 # 工程
