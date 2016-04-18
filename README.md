@@ -37,7 +37,7 @@ interview
 - 双向绑定更新机制
 
 
-# 工程
+# 工程技术经验
 
 - HTTP 状态码
 - git
@@ -50,9 +50,6 @@ interview
 - Chrome 调试
 - jenkins
 - 自动部署怎么实现
-
-# 技术
-
 - node
 - es6
 - grunt gulp webpack
