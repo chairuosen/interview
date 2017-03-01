@@ -63,3 +63,4 @@ mvvm
 oauth2
 event
 drag
+promise.all
