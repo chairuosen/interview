@@ -58,10 +58,11 @@ interview
 - xss csrf
 
 # 实现
-promise
-analysis
-mvvm
-oauth2
-event
-drag
-promise.all
+- promise
+- analysis
+- mvvm
+- oauth2
+- event
+- drag
+- promise.all
+- yield 实现 co
