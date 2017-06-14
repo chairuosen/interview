@@ -9,12 +9,14 @@ interview
 - this
 - Promise
 - 加法
+- NaN
 - Array的原型方法常用的 sort slice split shift indexOf reduce map forEach
 
 # html css
 
 - h5语意化
 - 响应式
+- float
 - position
 - inline-block
 - before after
